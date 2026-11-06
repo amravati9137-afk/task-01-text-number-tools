@@ -1,0 +1,23 @@
+# Task 01 – Text and Number Tools
+
+## Project Description
+This project is created using Python. It performs basic text and number operations.
+
+## Features
+1. Counts the number of words in a sentence.
+2. Finds the longest word.
+3. Reverses the given sentence.
+4. Checks whether a number is prime or not.
+
+## Technologies Used
+- Python
+- Python IDLE
+
+## How to Run
+1. Download the task01.py file.
+2. Open it in Python IDLE.
+3. Press F5 to run the program.
+4. Enter a sentence and a number.
+
+## Author
+Python Programming Internship – Task 01
